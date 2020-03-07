@@ -1,4 +1,4 @@
-# pingcap_demo
+# Pingcap_demo
 
 ## Description
 
@@ -33,7 +33,7 @@
 - 3.6 写了看起来靠谱的demo（实际上并不靠谱）
 - 3.7 调试&test
 
-## Presitation
+## Presentation
 
 - 原来的图被挂出去鞭尸了，诚惶诚恐的又跑了一遍，效果好了一点点
 - 猜测是原来的table里的数据没有清除，增长了select时间，insert减少了？外加本地网络的问题？
