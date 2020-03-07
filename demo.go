@@ -41,7 +41,7 @@ func main(){
 		}
 		wg.Wait()
 
-		t := time.NewTicker(30*time.Second)
+		t := time.NewTicker(time.Minute)
 		defer t.Stop()
 
 		whichTime := 0;
